@@ -1,2 +1,2 @@
 # codewar
-# Daily JS Practice
+# Daily JavaSript Practice
