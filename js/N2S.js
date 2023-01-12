@@ -1,10 +1,9 @@
 function tribonacci(signature,n){
-  
   if(n === 0)
     return []
 
   let arr = []
-	
+
   for(let x = 0; x < n; x++){
     if(signature[x] !== 'undefined' && x < 3){
       arr.push(signature[x])
